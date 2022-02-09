@@ -3,5 +3,4 @@
 
 Для корректной работы понадобится установить библиотеку SpeechRecognition
 
-https://pypi.org/project/SpeechRecognition/
-pip install SpeechRecognition
+https://pypi.org/project/SpeechRecognition/ - pip install SpeechRecognition
